@@ -24,6 +24,8 @@ Plus tard,
 * suivi des semis dans le temps et alertes indiquant quand semer et récolter
 
 ## MVP
+Pas de MVP à priori car aucun client potentiel.
+A moins de tenter de le mettre en place sur une petite parcelle proche.
 
 
 
