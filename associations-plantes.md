@@ -27,6 +27,16 @@ Plus tard,
 Pas de MVP à priori car aucun client potentiel.
 A moins de tenter de le mettre en place sur une petite parcelle proche.
 
+## Technos possibles
+
+### Cartographie
+
+Pouvoir cartographier dans un espace de la planete ou en sandboxé sur des surfaces allant de quelques metres carrés à plusieurs centaines de m carrés.
+
+* GeoJson
+* PostGIS
+
+
 
 
 
